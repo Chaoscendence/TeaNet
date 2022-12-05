@@ -1,0 +1,855 @@
+(mg 0.5 fe 0.5 ti 2 o 5) 85 (ti3o5) 15
+0.1 na 0.4 k jarosite
+0.16 k jarosite
+0.4 na 0.1 k jarosite
+0.5 na jarosite
+0.7 na jarosite
+1.0 k jarosite
+10/90 tro201/met101
+2/98 bit101/olv003
+2/98 cem101/olv003
+2/98 cte101/olv003
+2/98 dia101/olv003
+2/98 grp101/olv003
+2/98 grp102/olv003
+2/98 sic101/olv003
+25/75 cem101/olv003
+25/75 wus101/olv003
+50/50 olivine/pyroxene
+95/5 montmorillonite/carbon
+98/2 montmorillonite/carbon
+99.5/.5 montmorillonite/carbon
+99.9/.1 montmorillonite/carbon
+acidified montmorillonite
+acidified nontronite
+acidified smectite
+actinolite
+actinolite, talc
+akaganeite
+al(clo4)3-9h2o
+al(no3)-9h2o
+alexandrite
+allophane
+alluaudite
+altered glass with clay
+aluminum
+aluminum hydroxide al(oh)3 synthetic gibbsite
+alunite
+amarantite
+ammonium carbonate (nh4)co3
+ammonium chloride (nh4)cl
+ammonium nitrate
+ammonium phosphate dibasic (nh4)2po4
+ammonium sulfate (nh4)2so4
+amorphous graphite carbon
+amorphous silica
+amphibole
+amphibole actinolite
+amphibole anthophyllite
+amphibole magnesiohastingsite
+amphibole, anthophyllite
+amphibolite
+andalusite al2sio5
+andesine amorphous silica
+andesine montmorillonite
+andradite garnet
+anglesite
+anhydrite
+anhydrite (calcium sulfate)
+anhydrous oxalate acid
+ankerite
+annite (biotite)
+anorthite
+antigorite carbon lampblack
+antigorite mg-carbonate hematite
+antigorite serpentine
+antimony oxide sb2o3
+apatite
+apatite vanadinite
+aphthitalite
+aragonite
+aragonite speleothem
+aragonite, cotton
+aragonite, protein
+arcanite
+armalcolite
+arsenopyrite
+artinite
+asbestos chrysotile
+asphaltite
+atacamite
+attapulgite
+attapulgite palygorskite
+aubrite
+augite
+augite clinopyroxene pyroxene
+awaruite iron nickel alloy
+azurite
+azurite gaylussite
+baked laser-irradiated olivine
+baricite
+barite
+barium carbonate
+barium nitrate
+barium sulfate baso4 synthetic barite
+basalt ilmenite
+bastite? pyroxene?
+beidellite
+beidellite ca-saturated
+bentonite
+beraunite
+berthierine
+beryl
+bilinite
+binary pyroxene clino diopside enstatite
+binary pyroxene clinopyroxene diopside enstatite
+binary pyroxene ortho clino diopside enstatite
+biogenic carbonate aragonite organics
+biotite
+biotite mica-fe
+bituminous mineraloid
+bohmite
+bornite
+botryogen
+boussingaultite (nh4)2mg(so4)2-6(h2o)
+bronzite plagioclase anorthite
+bronzite pyroxene orthopyroxene
+brucite
+brugnatellite
+buddingtonite
+butlerite
+bytownite
+ca smectite
+ca(clo4)2-4h2o
+calcic amphibole actinolite
+calcic amphibole actinolite nephrite
+calcic amphibole tremolite
+calcite
+calcite chlorite
+calcite or coccolite (?)
+calcite reacted
+calcium carbonate
+calcium carbonate caco3 synthetic calcite
+calcium nitrate tetrahydrate
+calcium sulfate (gypsum)
+calcium sulfate caso4 synthetic anhydrite
+calcium sulfate dihydrate caso4-2h2o synthetic gypsum
+calcium sulfate dihydrate gypsum
+carbon glassy beads
+carbon graphite
+carbon nanopowder
+carbon nanopowder montmorillonite
+celadonite
+celestine
+cementite
+cerussite
+chalcopyrite
+chalcosiderite
+chamosite
+childrenite
+chlorite
+chlorite carbon lampblack
+chlorite olivine fe2o3
+chlorite olivine fe2o3 asphaltite
+chlorite smectite
+chrome ore
+chromite
+chromium nitride
+chrysocolla
+chrysotile
+clay illite
+clay illite smectite
+clay kaolinite
+clay montmorillonite
+clay montmorillonite beidellite
+clay montmorillonite bentonite
+clay saponite
+clay smectite illite
+clay smectite na montmorillonite
+clay talc
+clinochlore
+clinopyroxene
+clinopyroxene pyroxene
+coalingite
+copiapite
+copper nitrate nonahydrate
+coquimbite
+cornelite
+corundum
+cristobalite
+cronstedtite
+dark glass
+dawsonite
+diamond
+diaspore
+diaspore manganoan
+diopside
+dolomite
+dolomite(?) shocked
+dunite olivine
+efflorescent
+efflorescent copiapite
+efflorescent melanterite
+efflorescent sulfate
+efflorescent sulfate hematite
+enstatite
+enstatite (websterite)
+enstatite oldhamite
+enstatite orthopyroxene pyroxene
+enstatite orthopyroxene pyroxene aubrite
+epidote
+fe 0.25 mn 0.75 s
+fe 0.4 mn 0.6 s
+fe(clo4)2-nh2o
+fe(clo4)3-nh2o
+fe(no3)3-9h2o
+fe-carbonate
+fe-montmorillonite maghemite
+fe-montmorillonite magnetite
+fe/mg-carbonate
+feldspar
+feldspar albite
+feldspar andesine
+feldspar anorthoclase
+feldspar labradorite
+feldspar microcline
+feldspar oligoclase
+feldspar plagioclase
+feldspar plagioclase (anorthite)
+feldspar plagioclase (bytownite)
+feldspar plagioclase andesine
+feldspar plagioclase anorthite
+feldspar plagioclase anorthite ilmenite
+feldspar plagioclase bytownite
+feldspar plagioclase labradorite
+feldspar shocked
+feldspathoid lazurite
+feroxyhite
+ferric amaranthite
+ferric botryogen
+ferric coquimbite
+ferric hohmannite
+ferric jarosite
+ferric oxide
+ferric sulfate copiatite
+ferric sulfate jarosite
+ferric-sulfate-montmorillonite maghemite
+ferric-sulfate-montmorillonite magnetite
+ferric-sulfate-montmorillonite magnetite maghemite
+ferricopiapite
+ferrihydrite
+ferrihydrite alanine dta heated
+ferrihydrite glucose dta heated
+ferrihydrite/goethite
+ferrinatrite
+ferro-alluaudite
+ferropseudobrookite rutile
+ferrosaponite
+ferrous ammonium sulfate (nh4)2feso4-6h2o
+fibroferrite
+fluorapatite
+fluorite
+franklinite
+gahnite
+galena
+garnet
+garnet almandine
+garnet andradite
+gaspeite
+gaylussite
+geikeilite
+gibbsite
+glass (bytownite composition)
+glass hisingerite
+glass ilmenite
+glassy carbon powder montmorillonite
+glauberite
+glauconite
+goethite
+gold
+goldichite
+gormanite-souzalite
+graftonite
+graphite
+graphite 3r
+graphite montmorillonite
+greenalite
+gypsum
+gypsum alabaster
+gypsum ca smectite
+gypsum cemented ground
+gypsum cemented ground packed
+gypsum dolomite
+gypsum jarosite fibroferrite
+gypsum quartz
+gypsum selenite
+gyrolite
+h-implanted olivine
+h-implanted orthopyroxene
+h3o jarosite
+halite
+halloysite
+halotrichite
+hamatite specular
+hausmannite
+heated chlorite
+heated copiapite
+heated fe(no3)3-9h2o
+heated gaylussite
+heated gypsum jarosite fibroferrite
+heated hydromagnesite
+heated hydrotalcite
+heated kieserite
+heated labradorite
+heated manasseite
+heated montmorillonite clay
+heated olivine
+heated orthopyroxenite
+heated orthopyroxenite enstatite
+heated palagonite
+heated pirssonite
+heated saponite
+heated serpentine antigorite
+heated serpentine chrysotile clinochrysotile
+heated serpentine lizardite
+heated thermonatrite
+heated troilite
+heated troilite synthetic
+heated trona
+hectorite
+hedenbergite
+hematite
+hematite iron oxide
+hematite, var specular
+hercynite spinel
+hetic ferric ammonium sulfate fenh4(so4)2-12h2o
+hexahydrite
+hibonite
+hisingerite
+hisingerite garnet
+hisingerite non-magnetic
+hisingerite smectite
+hissingerite
+hornblende
+hornblende kaersutite
+hra plagioclase kieserite gypsum jarosite halite
+huntite
+hydrated iron sulfate
+hydrocalcite
+hydrocerussite
+hydrogen-exposed olivine
+hydromagnesite
+hydronium jarosite
+hydrotalcite
+hydrothermal clay
+hypersthene
+hypersthene augite
+iceland spar calcite
+iddingsite
+illite
+illite 2m
+illite montmorillonite
+illite-smectite mixed layer
+illite/smectite
+illite/smectite - rectorite
+ilmenite
+ilmenite fetio3
+ilmenite iron oxide
+ilmenite olivine
+ilmenite-geikielite solid solution
+ilvaite
+imogolite
+inverted maghemite iron oxide
+iron
+iron (ii) oxalate dehydrate
+iron (iii) nitrate nonahydrate
+iron nickel
+iron nicket fe ni aubrite
+iron oxide
+iron oxide ferrihydrite hematite
+iron oxide ferrihydrite hematite magnetite maghemite
+iron oxide ferrihydrite maghemite
+iron oxide ferrihydrite magnetite
+iron oxide hematite
+iron oxide magnetite hematite
+iron oxide magnetite maghemite
+iron oxide silicate sulfate
+iron sulfide fes
+iron?
+irradiated olivine
+jarosite
+jarosite hydronium jarosite
+jarosite natrojarosite
+jeffersonite
+k jarosite
+k(no3)
+kaolinite
+kaolinite - well crystalline
+kaolinite akanageite
+kaolinite fe2o3
+kaolinite montmorillinite
+kclo4
+kga kaolinite
+kidwellite
+kieserite
+kieserite halite sylvite calcite leonite
+kornelite
+kulanite
+kutnahorite
+kyanite al2sio5
+labradorite
+labradorite diopside
+labradorite olivine
+labradorite olvine
+labradorite orthopyroxene
+labradorite spinel
+labradorite-spinel mixture
+lampblack
+laser irradiated pyroxene
+laser-irradiated bronzite
+laser-irradiated ilmenite fetio3
+laser-irradiated olivine
+laser-irradiated olivine iron sulfide
+laser-irradiated olivine pyroxene orthopyroxene bronzite
+laser-irradiated olivine pyroxene serpentine kerite calcite
+lausenite
+lawrencite fecl3
+lazurite
+leached smectite nontronite
+lead (ii) carbonate basic (pbco3)2-pb(oh)2 synthetic hydrocerrusite
+lead carbonate
+lead nitrate
+lepidocrocite
+lepidomelane
+letovicite (nh4)3h(so4)2
+maghemite
+maghemite alpha-fe2o3
+maghemite iron oxide
+magnesite
+magnesite forsterite
+magnesite nontronite
+magnesite nontronite basaltic glass
+magnesite nontronite forsterite
+magnesite nontronite olivine
+magnesium chloride
+magnesium sulfate
+magnesium sulfate cemented
+magnesium sulfate cemented ground
+magnesium sulfate cemented ground packed
+magnetite
+magnetite fe2+fe3+o4
+magnetite ilmenite ulvospinel
+magnetite iron oxide
+magnetite olivine
+malachite
+manasseite
+manganese carbonate
+manganese sulfide mns
+manganite
+manganite mno(oh)
+manganoan calcite
+manganocalcite
+mansjoite?? pyroxene?
+marcasite
+mascagnite (nh4)2so4
+maskelynite
+melanterite
+melilite
+mercury surface analog
+metahohmannite
+metavoltine
+mg calcite
+mg(clo4)2
+mg(no3)2-6h2o
+mg-carbonate
+mgo carbon
+mica 2m2
+mica annite fayalite
+mica annite fayalite quartz
+mica annite fayalite quartz spinel
+mica biotite
+mica celadonite
+mica montmorillonite
+mica muscovite
+mica ni-annite ni metal topaz ammonium aluminum fluoride
+minnesotaite
+misenite
+mn calcite
+monohydrocalcite
+montmorillonite
+montmorillonite beidellite ca-saturated
+montmorillonite bentonite
+montmorillonite cation-exchanged
+montmorillonite enstatite mixture
+montmorillonite illite
+muscovite
+na jarosite
+na(no3)
+naclo4
+nahcolite
+natrojarosite
+neotocite
+nepheline
+nh4-treated leached montomorillonite
+nh4-treated montmorillonite
+nickel
+nickel iron alloy
+nickel-rich magnesite
+nitratine nano3
+nitre kno3
+nontronite
+nontronite basalt
+nontronite basalt glass
+nontronite forsterite
+nontronite illite
+nontronite magnesite
+nontronite olivine
+nontronite ripidolite
+nontronite smectite montmorillonite
+norite pyroxene orthopyroxene
+northupite
+oldhamite cas
+olivine
+olivine  hypersthene
+olivine  hypersthene augite
+olivine basalt glass
+olivine basalt ilmenite
+olivine chromite
+olivine chrysolite
+olivine cumulate
+olivine exposed to uv
+olivine fayalite
+olivine fayalite heated oxidized
+olivine fayalite reacted
+olivine ferrifayalite
+olivine ferrohortonolite
+olivine forsterite
+olivine forsterite (mg 1.85, fe 0.14) sio4
+olivine forsterite peridot heated
+olivine forsterite pyroxene orthopyroxene enstatite
+olivine glass
+olivine heated
+olivine hortonlite
+olivine hortonolite
+olivine hortonolite heated
+olivine hortonolite hyalosiderite
+olivine hortonolite oxidized heated
+olivine hortonolite reacted
+olivine hyalosiderite
+olivine implanted with h and he
+olivine iron chromite
+olivine lampblack
+olivine metal
+olivine montichellite?
+olivine montmorillonite
+olivine nontronite
+olivine nontronite basalt glass
+olivine peridot heated oxidized
+olivine peridote
+olivine plagioclase  hypersthene augite
+olivine plagioclase anorthite
+olivine pyroxene
+olivine pyroxene orthopyroxene
+olivine pyroxene orthopyroxene bronzite
+olivine pyroxene orthopyroxene bronzite plagioclase anorthite
+olivine pyroxene orthopyroxene metal
+olivine pyroxene orthopyroxene pyrrhotite
+olivine pyroxene serpentine kerite calcite
+olivine shocked
+olivine, fosterite
+olivinecoal tar
+olivinecte
+olivineforsterite
+olivinegraphite
+olivineodessa
+olv opx cpx
+opal
+opal-a
+opx cpx binary
+opx cpx olv
+opx standard
+organic kerite
+orthoclase k-feldspar
+orthopyroxene
+orthopyroxene fs85
+orthopyroxenite
+orthopyroxenite enstatite
+oxidized iron (iii) nitrate nonahydrate
+oxidized magnetite iron oxide
+palagonite
+palagonite diaspore
+palagonite gypsum
+palagonite magnesium sulfate
+palygorskite
+parabutlerite
+paracoquimbite
+paratacamite
+pentlandite
+perovskite
+perovskite cerian
+perovskite titanate
+phlogopite
+phyllosilicate ferrihydrite nontronite
+phyllosilicate kaolinite montmorillonite
+phyllosilicate kaolinite opal
+pickeringite
+pigeonite
+pirssonite
+plagioclase
+plagioclase  hypersthene augite
+plagioclase anorthite
+plagioclase anorthite anorthosite
+plagioclase bytownite
+plagioclase feldspar
+plagioclase feldspar albite
+plagioclase feldspar an95-97
+plagioclase feldspar andesine
+plagioclase feldspar anorthite
+plagioclase feldspar bytownite
+plagioclase feldspar labradorite
+plagioclase feldspar oligoclase
+plagioclase; albite
+poorly-crystallized silica schwertmannite
+poorly-crystallized silica schwertmannite np-goethite
+portlandite
+potassium feldspar
+prehnite zeolite
+pyrite
+pyroaurite
+pyrochroite mn(oh)2
+pyrophyllite
+pyrox augit plagi bytow glass ilmen
+pyrox augit plagi bytow ilmen
+pyrox hyper olive forst plagi bytow glass ilmen
+pyrox hyper olivi forst plagi bytow ilmen
+pyrox hyper plagi bytow glass
+pyrox hyper plagi bytow glass ilmen
+pyrox hyper plagi bytow ilmen
+pyroxene
+pyroxene acmite
+pyroxene andradite
+pyroxene augite
+pyroxene babingtonite
+pyroxene basalt ilmenite
+pyroxene bronzite
+pyroxene ca-rich
+pyroxene clinopyroxe diopside
+pyroxene clinopyroxene
+pyroxene clinopyroxene aegirine
+pyroxene clinopyroxene augite
+pyroxene clinopyroxene augite amorphous silica
+pyroxene clinopyroxene augite heated
+pyroxene clinopyroxene augite mg-poor
+pyroxene clinopyroxene augite mg-rich subcalcic
+pyroxene clinopyroxene augite montmorillonite
+pyroxene clinopyroxene bustamite
+pyroxene clinopyroxene chromium diopside
+pyroxene clinopyroxene clinoenstatite
+pyroxene clinopyroxene clinoferrosilite
+pyroxene clinopyroxene diopside
+pyroxene clinopyroxene diopside (chrome)
+pyroxene clinopyroxene endiopside
+pyroxene clinopyroxene fassaite
+pyroxene clinopyroxene ferrosalite
+pyroxene clinopyroxene hedenbergite
+pyroxene clinopyroxene high-ca
+pyroxene clinopyroxene jadeite
+pyroxene clinopyroxene jadeite (probably)
+pyroxene clinopyroxene omphacite
+pyroxene clinopyroxene orthopyroxene
+pyroxene clinopyroxene pigeonite
+pyroxene clinopyroxene salite
+pyroxene clinopyroxene salite/fassaite
+pyroxene clinopyroxene schefferite
+pyroxene clinopyroxene spodumene
+pyroxene clinopyroxene urbanite
+pyroxene clinopyroxene ureyite
+pyroxene clinpyroxene diopside
+pyroxene diopside
+pyroxene endiopside
+pyroxene enstatite
+pyroxene fe-rich
+pyroxene ferric clinpyroxene
+pyroxene hematite
+pyroxene hypersthene plagioclase bytownite
+pyroxene jadeite
+pyroxene low-ca
+pyroxene metal
+pyroxene mixture
+pyroxene olivine
+pyroxene olivine anorthite
+pyroxene olivine anorthosite
+pyroxene olivine plagioclase
+pyroxene olivine plagioclase ilmenite
+pyroxene omphacite
+pyroxene or olivine
+pyroxene orthopyroxene
+pyroxene orthopyroxene bronzite
+pyroxene orthopyroxene bronzite heated
+pyroxene orthopyroxene clinopyroxene
+pyroxene orthopyroxene diaspore
+pyroxene orthopyroxene enstatite
+pyroxene orthopyroxene enstatite reduced
+pyroxene orthopyroxene enstatite; webesterite
+pyroxene orthopyroxene enstatite; websterite
+pyroxene orthopyroxene ferrosilite
+pyroxene orthopyroxene heated
+pyroxene orthopyroxene hedenbergite
+pyroxene orthopyroxene hypersthene
+pyroxene orthopyroxene lampblack
+pyroxene orthopyroxene metal lampblack
+pyroxene orthopyroxene/pigeonite
+pyroxene palagonite
+pyroxene pigeonite (magnesian)
+pyroxene plagioclase ilmenite
+pyroxene rhodonite
+pyroxene shocked
+pyroxene wohlerite
+pyroxene wollastonite
+pyroxene?
+pyroxenemetal
+pyroxenoid pyroxmangite
+pyroxenoid wollastonite
+pyroxmangite/rhodonite
+pyrrhotite
+pyrrhotite reacted
+pyrxoene hiortdahlite
+quartz
+quartz alunite
+quartz diaspore
+quartz muscovite
+quartz troilite
+rhodochrosite
+rhodonite
+rhomboclase
+ripidolite
+ripidolite nontronite
+ripidolite sepiolite
+roemerite
+romerite
+rozenite
+rutile
+saponite
+saponite enstatite mixture
+saponite palagonite
+sarcopside
+scapolite
+scaporite
+schwertmannite
+selenite gypsum
+sepiolite
+serpentine
+serpentine antigorite
+serpentine chrysotile
+serpentine chrysotile clinochrysotile
+serpentine cronstedtite
+serpentine lizardite
+serpentine picrolite
+shocked clinopyroxene pyroxene
+shocked ilmenite
+shocked orthopyroxene pyroxene
+shocked plagioclase
+shocked pyroxene clinopyroxene
+shocked pyroxene diopside
+shocked serpentine
+shortite
+siderite
+siderite feco3
+sideronatrite
+silica olivine
+silicate (phyllo)
+slavikite
+smectite
+smectite al-bearing nontronite
+smectite fe-rich
+smectite na-montmorillonite
+smectite, ca-montmorillonite
+smectitie fe-rich
+smectitie mg-rich
+smithsonite
+sodalite
+sodium carbonate
+sodium oxalate
+sphalerite
+sphene titanite
+spherical silica
+spinel
+spinel franklinite
+spinel gahnite
+spinel magnetite
+spinel pleonaste
+spinel ulvospinel
+spinel-hercynite
+sputter-cleaned olivine
+sputter-cleaned uv-exposed olivine
+starkeyite
+strengite
+strontianite
+strontium carbonate
+strontium nitrate
+strunzite
+sulfate
+sulfur
+synthetic calcium oxalate cac2o4(h2o)
+synthetic cas
+synthetic fes
+synthetic lead sulfate
+synthetic malachite cu2(co3)(oh)2
+synthetic mns
+synthetic talc 3mgo-4sio2-h2o
+synthetic tis2
+szomolnokite
+szomolnokite rozenite
+szomolnokite?
+talc
+thenardite
+thermonatrite
+titanium dioxide tio2 predominantly synthetic rutile
+titanium dioxide tio2 synthetic anatase
+tochilinite
+tochilnilite
+tourmaline
+tremolite
+triphyllite
+troilite
+troilite reacted
+troilite synthetic
+trona
+unknown
+uv-exposed olivine
+uv-irradiated olivine
+uv-irradiated orthopyroxene
+vermiculite
+violan? pyroxene?
+volataite
+volcanic soil palagonite magnesium sulfate
+volcanic soil palagonite mgso4 sulfate
+voltaite
+witherite
+wollastonite
+wustite
+yavapaiite
+zeolite
+zeolite analcime
+zeolite chabazite
+zeolite clinoptilolite
+zeolite clinoptitolite
+zeolite erionite
+zeolite gismondine
+zeolite heulandite
+zeolite laumontite
+zeolite mesolite
+zeolite mordenite
+zeolite natrolite
+zeolite phillipsite
+zeolite prehnite
+zeolite pumpellyite
+zeolite scolecite
+zeolite stilbite
+zeolite thomsonite
+zeolite wairakite
+zinc carbonate
+zinc nitrate hexahydrate
+zinc oxide zno synthetic zincite
+zinnwaldite
+zircon

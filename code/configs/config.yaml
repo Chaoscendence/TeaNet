@@ -1,0 +1,20 @@
+TRAIN:
+  cuda: True
+  kernel: 21
+  kernel_unet: 9
+  lr_base_D: 1e-4
+  lr_base_G: 1e-3
+  loss_ratio: 0.7
+  width: 3
+  epochs: 300
+  verbose: True
+  batch_size: 256
+  ConvLayers: [16, 16, 'M']
+  linear_dim: 8192
+  class_num: 430
+
+DATASET:
+  mask_scheme: [0.3, 0.7]
+  mask_num: 10
+  data_path: '../DATA/rruff_ir.pth'
+  scheme: 0.80
