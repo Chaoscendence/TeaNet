@@ -58,6 +58,11 @@ The default configs are setted in `code/configs/config.yaml`, e.g. data_path, yo
 
 If you have any quesitons, please contact us by liujinchao@nankai.edu.cn
 
+## License
+
+The use of the code and other materials in this repository is RESTRICTED to non-commercial research and educational purposes.
+
+
 ## Citation
 
 Please cite our paper in your publications if you find the code useful:
