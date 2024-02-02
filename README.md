@@ -1,6 +1,6 @@
 # TeaNet
 
-This repository is for **Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers**.
+This repository is for "Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2023.3347617.
 
 ## Datasets
 
