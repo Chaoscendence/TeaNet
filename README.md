@@ -58,3 +58,18 @@ The default configs are setted in `code/configs/config.yaml`, e.g. data_path, yo
 
 If you have any quesitons, please contact us by liujinchao@nankai.edu.cn
 
+## Citation
+
+Please cite our paper in your publications if you find the code useful:
+
+```
+@article{wu2023reconstructing,
+  title={Reconstructing Randomly Masked Spectra Helps DNNs Identify Discriminant Wavenumbers},
+  author={Wu, Yingying and Liu, Jinchao and Wang, Yan and Gibson, Stuart and Osadchy, Margarita and Fang, Yongchun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+
